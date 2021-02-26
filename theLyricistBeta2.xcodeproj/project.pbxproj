@@ -57,6 +57,10 @@
 		34E4545B2501B68100DEE029 /* ManagerDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E4545A2501B68100DEE029 /* ManagerDefaults.swift */; };
 		34E5A09E24C6089C00576C59 /* Lover.txt in Resources */ = {isa = PBXBuildFile; fileRef = 34E5A09D24C6089C00576C59 /* Lover.txt */; };
 		34E66BB4255DFDBD00157900 /* AchievmentsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E66BB3255DFDBD00157900 /* AchievmentsVC.swift */; };
+		34F5E6C225E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.55.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F5E6BE25E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.55.52.png */; };
+		34F5E6C325E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.37.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F5E6BF25E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.37.png */; };
+		34F5E6C525E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F5E6C125E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.04.png */; };
+		34F5E6C925E8AAEE00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.59.57.png in Resources */ = {isa = PBXBuildFile; fileRef = 34F5E6C825E8AAEE00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.59.57.png */; };
 		34F61CC025BF5F6D00453F53 /* happiness.txt in Resources */ = {isa = PBXBuildFile; fileRef = 34F61CBD25BF5F6D00453F53 /* happiness.txt */; };
 		34F61CC125BF5F6D00453F53 /* tolerate_it.txt in Resources */ = {isa = PBXBuildFile; fileRef = 34F61CBE25BF5F6D00453F53 /* tolerate_it.txt */; };
 		34F61CC225BF5F6D00453F53 /* nbnc.txt in Resources */ = {isa = PBXBuildFile; fileRef = 34F61CBF25BF5F6D00453F53 /* nbnc.txt */; };
@@ -116,6 +120,10 @@
 		34E4545A2501B68100DEE029 /* ManagerDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManagerDefaults.swift; sourceTree = "<group>"; };
 		34E5A09D24C6089C00576C59 /* Lover.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Lover.txt; sourceTree = "<group>"; };
 		34E66BB3255DFDBD00157900 /* AchievmentsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievmentsVC.swift; sourceTree = "<group>"; };
+		34F5E6BE25E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.55.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.55.52.png"; sourceTree = "<group>"; };
+		34F5E6BF25E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.37.png"; sourceTree = "<group>"; };
+		34F5E6C125E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.04.png"; sourceTree = "<group>"; };
+		34F5E6C825E8AAEE00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.59.57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.59.57.png"; sourceTree = "<group>"; };
 		34F61CBD25BF5F6D00453F53 /* happiness.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = happiness.txt; sourceTree = "<group>"; };
 		34F61CBE25BF5F6D00453F53 /* tolerate_it.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tolerate_it.txt; sourceTree = "<group>"; };
 		34F61CBF25BF5F6D00453F53 /* nbnc.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = nbnc.txt; sourceTree = "<group>"; };
@@ -284,6 +292,7 @@
 		34D6AF8024C363F200B1B51B /* theLyricistBeta2 */ = {
 			isa = PBXGroup;
 			children = (
+				34F5E6BD25E8AA9200115053 /* Images */,
 				34790B4E24C9635B00A7BED1 /* Utilities.swift */,
 				34D6AF8124C363F200B1B51B /* AppDelegate.swift */,
 				34D6AF8324C363F200B1B51B /* SceneDelegate.swift */,
@@ -297,6 +306,17 @@
 				34D6AF8F24C363F600B1B51B /* Info.plist */,
 			);
 			path = theLyricistBeta2;
+			sourceTree = "<group>";
+		};
+		34F5E6BD25E8AA9200115053 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				34F5E6C825E8AAEE00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.59.57.png */,
+				34F5E6BE25E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.55.52.png */,
+				34F5E6C125E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.04.png */,
+				34F5E6BF25E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.37.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -357,6 +377,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34F5E6C925E8AAEE00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.59.57.png in Resources */,
 				3437A3C325C1FCAA00B0D4DE /* coney_island.txt in Resources */,
 				3437A3C025C1FC2D00B0D4DE /* dorthea.txt in Resources */,
 				3481546C25BB65F7000C17C9 /* willow.txt in Resources */,
@@ -367,10 +388,12 @@
 				3470EFAC25007D0100ACB980 /* Screen Shot 2020-09-02 at 6.22.52 PM.png in Resources */,
 				34A68EB224C36DD000A1681D /* Getaway_Car.txt in Resources */,
 				3437A3D325C204B900B0D4DE /* IKYWT.txt in Resources */,
+				34F5E6C225E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.55.52.png in Resources */,
 				34F61CC025BF5F6D00453F53 /* happiness.txt in Resources */,
 				3453DDD124D77546003134D9 /* False_God.txt in Resources */,
 				3453DDD524D77658003134D9 /* Afterglow.txt in Resources */,
 				3453DDD924D7786D003134D9 /* INTHAF.txt in Resources */,
+				34F5E6C325E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.37.png in Resources */,
 				346F5E7524C915AF00CAF993 /* I_Forgot_That_You_Existed.txt in Resources */,
 				3453DDC524D76144003134D9 /* ITHS.txt in Resources */,
 				3453DDCD24D76F47003134D9 /* DBATC.txt in Resources */,
@@ -390,6 +413,7 @@
 				34D6AF8B24C363F600B1B51B /* Assets.xcassets in Resources */,
 				34D6AF8924C363F200B1B51B /* Main.storyboard in Resources */,
 				3453DDD324D775CD003134D9 /* YNTCD.txt in Resources */,
+				34F5E6C525E8AADC00115053 /* Simulator Screen Shot - iPhone 11 Pro - 2021-02-25 at 19.58.04.png in Resources */,
 				34E5A09E24C6089C00576C59 /* Lover.txt in Resources */,
 				3453DDCF24D774D2003134D9 /* London_Boy.txt in Resources */,
 				3453DDC124D75F86003134D9 /* The_man.txt in Resources */,
